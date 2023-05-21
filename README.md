@@ -83,6 +83,8 @@ The sequence diagram shows interactions in the system between objects put togeth
 Login as User:
 ![image](https://github.com/Social-Club-Mini-Project/API/assets/38864734/a2827130-70f2-42ed-b3ec-d8ea1b0f5aea)
 
+<h3>note: the DB Analysis is based on the new DB not the one currently used in the program</h3>
+ 
 EER Digram: 
 ![image](https://github.com/Social-Club-Mini-Project/API/assets/38864734/4c7c7fdf-cd6f-4f54-a044-d8998ae594f7)
 Mapping :
